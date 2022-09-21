@@ -1,4 +1,6 @@
 # MentoramaPythonPRO_MOD5
 
 ### Autor: Gustavo Duarte
-### Projeto que visa a verificar numeros multiplos de 3 e 7
+### Version: 0.5v
+
+## Projeto que visa a verificar numeros multiplos de 3 e 7
